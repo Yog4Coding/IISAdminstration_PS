@@ -1,0 +1,42 @@
+Model:
+  - Name: M800
+    YOM: 1995
+  - Name: M1000
+    YOM: 1997
+  - Name: MZEN
+    YOM: 2000
+Industry: Maruti
+Type: Manufacturing
+Year: 1980
+Date: "1980:07:25"
+Vehicle:
+  Type: 4Wheeler
+  Purpose: Citizens
+  Utility: Pasengers
+  Model:
+    Name: Zen
+    YOM: 2005
+    Sold: 1000000
+    StillInManufacturing: 'false'
+  ModelNew:
+    Name1: ZenD
+    YOM: 2006
+    Sold: 120000
+    StillInManufacturing: 'false'
+      TreeLevel: L1
+        TreeLevel: L2
+          TreeLevel: L3
+            TreeLevel: L4
+              TreeLevel: L5
+                TreeLevel: L6
+                - Name: M800
+                  YOM: 1995
+                - Name: M1000
+                  YOM: 1997
+                - Name: MZEN
+                  YOM: 2000
+State: TL
+District: SNG
+
+  
+
